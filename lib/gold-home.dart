@@ -60,7 +60,7 @@ class _GoldHomeState extends State<GoldHome> {
 
             double goldPrice=double.parse(goldPriceController.text);
             double tolaQuantity=double.parse(tolaQuantityController.text);
-            double grams=double.parse(gramsController.text),
+            double grams=double.parse(gramsController.text);
             double rati=double.parse(ratiController.text);
             double points=double.parse(pointsController.text);
 
