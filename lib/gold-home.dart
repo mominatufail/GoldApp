@@ -189,10 +189,9 @@ class _GoldHomeState extends State<GoldHome> {
               backgroundColor: Colors.white.withOpacity(1),
             //
 
-              
+
             );}
            ),
-
 
         ],
         ),
