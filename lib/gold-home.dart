@@ -23,6 +23,7 @@ class _GoldHomeState extends State<GoldHome> {
   double totalGramPrice=0.0;
   double totalRatiPrice=0.0;
   double totalPointsPrice=0.0;
+
   
   @override
   Widget build(BuildContext context) {
