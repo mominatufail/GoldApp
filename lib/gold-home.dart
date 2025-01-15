@@ -175,7 +175,7 @@ class _GoldHomeState extends State<GoldHome> {
           SizedBox(height: 10,),
           Text('Total Points Price Rs. $totalPointsPrice',style: TextStyle(color: Colors.green.shade900),),
           SizedBox(height: 10,),
-           
+
            FloatingActionButton(onPressed: (){
 
             Get.snackbar(
@@ -187,7 +187,8 @@ class _GoldHomeState extends State<GoldHome> {
               'Field must be filled' ,     //description of title
               backgroundColor: Colors.white.withOpacity(1),
 
-            );}
+            );
+           }
            ),
         ],
         ),
