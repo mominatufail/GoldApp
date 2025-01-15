@@ -24,7 +24,7 @@ class _GoldHomeState extends State<GoldHome> {
   double totalRatiPrice=0.0;
   double totalPointsPrice=0.0;
 
-  
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
