@@ -188,8 +188,7 @@ class _GoldHomeState extends State<GoldHome> {
               'Field must be filled' ,     //description of title
               backgroundColor: Colors.white.withOpacity(1),
             //
-
-
+              
             );}
            ),
         ],
