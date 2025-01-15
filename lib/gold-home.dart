@@ -192,7 +192,6 @@ class _GoldHomeState extends State<GoldHome> {
 
             );}
            ),
-
         ],
         ),
       ),
